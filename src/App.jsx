@@ -32,6 +32,8 @@ const App = () => {
     }
   }, []);
 
+  console.log("hello");
+
   return (
     <>
       <Navbar />
